@@ -34,7 +34,7 @@ for (var numeroFor = 0; numeroFor <= 3; numeroFor += 1) {
 
 // Usando switch case
 
-const estacion = 'Verano';
+const estacion = 'Lunes';
 switch (estacion) {
     case 'Verano':
         console.log('Estamos en Verano, Uff que veranito!!');        
